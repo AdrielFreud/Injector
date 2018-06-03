@@ -15,7 +15,6 @@ WRITE_DAC  = 0x00040000
 WRITE_OWNER  = 0x00080000
 TODAS_PERMISSOES = (DELETE | READ_CONTROL | SYNCHRONIZE | WRITE_DAC | WRITE_OWNER | 0xFFF)                                                                                                         
 
-
 def Creditos():
     os.system('color a')
     print(menu)
@@ -27,8 +26,6 @@ def Open_channel():
 
 def Github():
     webbrowser.open('https://github.com/AdrielFreud')
-
-
 
 def Exit():
     sys.exit()
