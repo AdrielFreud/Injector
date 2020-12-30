@@ -13,10 +13,9 @@
 ![photo](https://i.imgur.com/h9vUof4.png)
 
 # Características
-  - Get a Links.
-  - Whois, data informations.
-  - Email Extrator. (hotmail, gmail etc.)
-  - IP Recover.
+  - Injects shellcode by PID.
+  - Inject dll's by PID.
+  - Process Attach.
  
 # Download
 Baixe diretamente do github com:
